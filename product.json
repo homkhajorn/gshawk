@@ -1,0 +1,84 @@
+[
+	{
+		"post_id" : 198,
+		"name" : "เซ็กซี่ คอนซีลเลอร์ No1 ผิวขาว",
+		"sku" : "00008",
+		"price_dealer" : 60,
+		"price": 150,
+		"img": "https://www.sexysurin.com/api/img_pro/00008.jpg",
+		"condition" : [
+			   {
+			    	"unit_star" : 51,
+					"unit_end" : 100,
+					"price" : 55
+			   },
+			   {
+					"unit_star" : 1,
+					"unit_end" : 50,
+					"price" : 60
+			   }
+			]
+	},
+	{
+		"post_id" : 14223,
+		"name" : "เซ็กซี่ คอนซีลเลอร์ No2 ผิวสองสี",
+		"sku" : "00009",
+		"price_dealer" : 60,
+		"price": 150,
+		"img": "https://www.sexysurin.com/api/img_pro/00009.jpg",
+		"condition" : [
+			   {
+			    	"unit_star" : 51,
+					"unit_end" : 100,
+					"price" : 55
+			   },
+			   {
+					"unit_star" : 1,
+					"unit_end" : 50,
+					"price" : 60
+			   }
+			]
+	},
+	{
+		"post_id" : 165,
+		"name" : " ครีมวิตามินอี ",
+		"sku" : "00001",
+		"price_dealer" : 120,
+		"price": 150,
+		"img": "https://www.sexysurin.com/api/img_pro/00001.jpg",
+		"condition" : [
+			   {
+			    	"unit_star" : 51,
+					"unit_end" : 100,
+					"price" : 110
+			   },
+			   {
+					"unit_star" : 1,
+					"unit_end" : 50,
+					"price" : 120
+			   }
+			]
+	},
+	{
+		"post_id" : 165,
+		"name" : " ครีมกันแดดหน้าเด้ง ",
+		"sku" : "00002",
+		"price_dealer" : 100,
+		"price": 150,
+		"img": "https://www.sexysurin.com/api/img_pro/00002.jpg",
+		"condition" : [
+			   {
+			    	"unit_star" : 51,
+					"unit_end" : 100,
+					"price" : 110
+			   },
+			   {
+					"unit_star" : 1,
+					"unit_end" : 50,
+					"price" : 100
+			   }
+			]
+	}
+	
+]
+	

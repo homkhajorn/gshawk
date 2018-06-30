@@ -51,7 +51,7 @@
 			"sku" : "00001",
 			"price_dealer" : 120,
 			"price": 150,
-			"quantityInCart": 0,
+			"quantityInCart": 1,
 			"addButtonState": "idle",
 			"img": "https://www.sexysurin.com/api/img_pro/00001.jpg",
 			"condition" : [

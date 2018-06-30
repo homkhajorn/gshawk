@@ -7,7 +7,7 @@
 			"sku" : "00008",
 			"price_dealer" : 60,
 			"price": 150,
-			"quantityInCart": 0,
+			"quantityInCart": 1,
 			"addButtonState": "idle",
 			"img": "https://www.sexysurin.com/api/img_pro/00008.jpg",
 			"condition" : [
@@ -29,7 +29,7 @@
 			"sku" : "00009",
 			"price_dealer" : 60,
 			"price": 150,
-			"quantityInCart": 0,
+			"quantityInCart": 1,
 			"addButtonState": "idle",
 			"img": "https://www.sexysurin.com/api/img_pro/00009.jpg",
 			"condition" : [
@@ -73,7 +73,7 @@
 			"sku" : "00002",
 			"price_dealer" : 100,
 			"price": 150,
-			"quantityInCart": 0,
+			"quantityInCart": 1,
 			"addButtonState": "idle",
 			"img": "https://www.sexysurin.com/api/img_pro/00002.jpg",
 			"condition" : [
@@ -98,7 +98,7 @@
 			"sku" : "00008",
 			"price_dealer" : 60,
 			"price": 150,
-			"quantityInCart": 0,
+			"quantityInCart": 1,
 			"addButtonState": "idle",
 			"img": "https://www.sexysurin.com/api/img_pro/00008.jpg",
 			"condition" : [
@@ -120,7 +120,7 @@
 			"sku" : "00009",
 			"price_dealer" : 60,
 			"price": 150,
-			"quantityInCart": 0,
+			"quantityInCart": 1,
 			"addButtonState": "idle",
 			"img": "https://www.sexysurin.com/api/img_pro/00009.jpg",
 			"condition" : [
@@ -142,7 +142,7 @@
 			"sku" : "00001",
 			"price_dealer" : 120,
 			"price": 150,
-			"quantityInCart": 0,
+			"quantityInCart": 1,
 			"addButtonState": "idle",
 			"img": "https://www.sexysurin.com/api/img_pro/00001.jpg",
 			"condition" : [
@@ -164,7 +164,7 @@
 			"sku" : "00002",
 			"price_dealer" : 100,
 			"price": 150,
-			"quantityInCart": 0,
+			"quantityInCart": 1,
 			"addButtonState": "idle",
 			"img": "https://www.sexysurin.com/api/img_pro/00002.jpg",
 			"condition" : [
